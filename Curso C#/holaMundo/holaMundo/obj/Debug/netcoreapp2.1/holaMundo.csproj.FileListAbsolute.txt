@@ -1,0 +1,11 @@
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\bin\Debug\netcoreapp2.1\holaMundo.deps.json
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\bin\Debug\netcoreapp2.1\holaMundo.runtimeconfig.json
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\bin\Debug\netcoreapp2.1\holaMundo.runtimeconfig.dev.json
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\bin\Debug\netcoreapp2.1\holaMundo.dll
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\bin\Debug\netcoreapp2.1\holaMundo.pdb
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\obj\Debug\netcoreapp2.1\holaMundo.csprojAssemblyReference.cache
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\obj\Debug\netcoreapp2.1\holaMundo.csproj.CoreCompileInputs.cache
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\obj\Debug\netcoreapp2.1\holaMundo.AssemblyInfoInputs.cache
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\obj\Debug\netcoreapp2.1\holaMundo.AssemblyInfo.cs
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\obj\Debug\netcoreapp2.1\holaMundo.dll
+C:\Users\nveob\Documents\GitHub\cursosMOOC\Curso C#\holaMundo\holaMundo\obj\Debug\netcoreapp2.1\holaMundo.pdb

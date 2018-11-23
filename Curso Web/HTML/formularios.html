@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>Formularios</title>
+</head>
+<body>
+	<form><!-- para crear formularios -->
+		<input type="text" placeholder="Nombre:" maxlength="11" size="50" disabled name="Nombre">
+		<br/><br/>
+		<input type="submit" value="Enviar">
+		<br/><br/>
+		<input type="text" placeholder="Nombre:" maxlength="11" size="50" readonly name="Nombre">
+		<br/><br/>
+		<input type="submit" value="Enviar">
+		<br/><br/>
+		<label for="Nombre">Nombre:</label>
+		<br/>
+		<input type="text" placeholder="Nombre:" maxlength="11" required name="Nombre" id="Nombre">
+		<br/>
+		<label for="Correo">Correo:</label>
+		<br/>
+		<input type="email" placeholder="Correo:" maxlength="50" required name="Correo" id="Correo">
+		<br/>
+		<label for="Mensaje">Mensaje:</label>
+		<br/>
+		<textarea name="Mensaje" id="Mensaje" placeholder="Mensaje"></textarea>
+		<br/>
+		<label for="País">País:</label>
+		<br/>
+		<select name="Pais" id="Pais">
+			<option value="Mexico">Mexico</option>
+			<option value="España">España</option>
+			<option value="ElSalvador">El Salvador</option>
+			<option value="GuineaEcuatorial">Guinea Ecuatorial</option>
+			<option value="Argentina">Argentina</option>
+		</select>
+		<br/>
+		<input type="radio" name="genero" value="hombre" id="hombre"><label for="hombre" id="hombre">Hombre</label>
+		<br/>
+		<input type="radio" name="genero" value="mujer" id="mujer"><label for="mujer" id="mujer">Mujer</label>
+		<br/>
+		<input type="checkbox" name="terminos" id="terminos"><label for="terminos" id="terminos">Ternimos</label>
+		<br/>
+		<input type="checkbox" name="Condiciones" id="Condiciones"><label for="Condiciones" id="Condiciones">Condiciones</label>
+		<br/>
+		<input type="checkbox" name="Argumentos" id="Argumentos"><label for="Argumentos" id="Argumentos">Argumentos</label>
+		<br/>
+		<input type="checkbox" name="Predicaciones" id="Predicaciones"><label for="Predicaciones" id="Predicaciones">Predicaciones</label>
+		<br/>
+		<input type="checkbox" name="Evangelio" id="Evangelio"><label for="Evangelio" id="Evangelio">Evangelio</label>
+		<br/>
+		<input type="checkbox" name="Teologia" id="Teologia"><label for="Teologia" id="Teologia">Teologia</label>
+		<br/>
+		<input type="checkbox" name="Biblia" id="Biblia"><label for="Biblia" id="Biblia">Biblia</label>
+		<br/><br/>
+		<input type="submit" value="Enviar">
+	</form>
+</body>
+</html>
