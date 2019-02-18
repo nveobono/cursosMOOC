@@ -10,6 +10,7 @@
 */
 #include<stdio.h>
 #include<stdlib.h>
+#include <string.h>
 
 struct corredor{
 	char nombre[30];
@@ -30,7 +31,7 @@ int main(){
 		
 		printf("\nIntroduce tu sexo: ");
 		gets(usuario.sexo);
-		printf("\nIntroduce tu edad: ");
+		printf("\nIntroduce tu club: ");
 		gets(usuario.clud);
 		printf("\n\n");
 		
